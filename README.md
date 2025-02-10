@@ -1,2 +1,2 @@
-# M2-MFP
+# M$^2$-MFP
 Official implementation for "M$^2$-MFP: A Multi-Scale and Multi-Level Memory Failure Prediction Framework for Reliable Cloud Infrastructure"
