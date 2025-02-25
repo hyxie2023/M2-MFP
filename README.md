@@ -45,9 +45,8 @@ Below is the summary table of DIMM and CE counts from our dataset:
 | Total   | [REDACTED]                  | [REDACTED]                          | [REDACTED]           | [REDACTED]                   | [REDACTED]                          | [REDACTED]             | [REDACTED]         | [REDACTED]                 | [REDACTED]    |
 
 
-You can access the current dataset at the following link:  
-[Current Dataset Download](https://campustuberlinde-my.sharepoint.com/:u:/g/personal/qiao_yu_campus_tu-berlin_de/ESTDyeUYFYVCsLNm2OX3v84B1r5XRAmKS5cI5topXHktjg?e=4WaHW0)
+You can access the current dataset via [SmartMem](https://www.codabench.org/competitions/3586/).
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. See [CC BY-NC-SA 4.0]([LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/)) for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. See [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) for details.
